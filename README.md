@@ -1,9 +1,3 @@
-Perfeito — vou transformar isso em um **tutorial didático em Markdown**, ideal para colocar direto no GitHub (`README.md`) e para devs iniciantes seguirem passo a passo.
-
-Vou simplificar, organizar e deixar mais “escaneável” 👇
-
----
-
 # 🚀 Etapa 1: Criando e Publicando seu Primeiro Site
 
 > Sua jornada como desenvolvedor começa aqui.
