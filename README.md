@@ -14,8 +14,8 @@ Neste guia você vai: ---
 
 ## 📊 Progresso
 
-* [ ] Passo 1 — E-mail profissional
-* [ ] Passo 2 — IDE (Editor de código)
+* [x] Passo 1 — E-mail profissional
+* [x] Passo 2 — IDE (Editor de código)
 * [ ] Passo 3 — Criar site (HTML)
 * [ ] Passo 4 — Conta no GitHub
 * [ ] Passo 5 — Subir código
