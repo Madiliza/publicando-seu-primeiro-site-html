@@ -2,7 +2,7 @@
 
 > Sua jornada como desenvolvedor começa aqui.
 
-Neste guia você vai:
+Neste guia você vai: ---
 
 * Criar um e-mail profissional
 * Configurar seu ambiente de desenvolvimento
